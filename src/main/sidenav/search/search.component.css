@@ -16,3 +16,25 @@
   width: 85%;
   border-radius: 8px;
 }
+.input-container > img {
+  height: 1.6rem;
+  margin: 0 1rem;
+}
+.input-container > input {
+  border: transparent;
+  background-color: #f0f2f5;
+  color: #666;
+  font-size: 1.2rem;
+}
+.input-container > input:focus {
+  outline: none;
+}
+.sort {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 2rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.2rem;
+}
