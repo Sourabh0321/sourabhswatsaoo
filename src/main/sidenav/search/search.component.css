@@ -4,4 +4,15 @@
   justify-content: space-evenly;
   align-items: center;
   height: 3.5rem;
+  border-top: 1px solid #eee;
+  border-bottom: 2px solid #eee;
+}
+.input-container {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: #f0f2f5;
+  height: 2.5rem;
+  width: 85%;
+  border-radius: 8px;
 }
