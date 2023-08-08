@@ -6,9 +6,8 @@
   background-color: #f0f2f5;
   padding: 1rem;
 }
-.menus {
+.menu {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   height: 1.6rem;
   flex-basis: 40%;
