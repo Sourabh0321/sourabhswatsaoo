@@ -5,7 +5,18 @@
   height: 3.5rem;
   background-color: #f0f2f5;
   padding: 1rem;
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 5px solid lightgrey;
+}
+.avatar
+{
+  height:2.5rem;
+  flex-basis: 1.6rem;
+
+}
+  .img
+{
+  height: 100%;
+  border-radius: 50%;
 }
 .menu {
   display: flex;
