@@ -7,14 +7,11 @@
   padding: 1rem;
   border-bottom: 5px solid lightgrey;
 }
-.avatar
-{
-  height:2.5rem;
-  flex-basis: 1.6rem;
-
+.avatar {
+  height: 2.5rem;
+  flex-basis: 2.2rem;
 }
-  .img
-{
+.img {
   height: 100%;
   border-radius: 50%;
 }
