@@ -25,7 +25,7 @@
 }
 .conversations {
   width: calc(93rem - 32.5%);
-  height: 43rem;
+  height: 44rem;
   /* background-color: blue; */
   display: flex;
   flex-direction: column;
