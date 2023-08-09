@@ -1,54 +1,44 @@
-.container
-{
+.container{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
   background-color: #f0f2f5;
-  height: 3.5rem;
+  height: 4rem;
   width: 100%;
   padding: 1rem;
   border-bottom: 1px solid #ccc;
 }
-.user
-{
+.user{
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
   align-items: center;
   padding: 0 1rem;
   width: 50%;
-  background-color: red;
-  height: 3.5rem;
+  /* background-color: red; */
+  height: 4rem;
 
 }
-.avatar
-{
+.avatar{
   height: 3rem;
   width: 3rem;
   margin-right: 2rem;
-
 }
-.avatar > img
-{
-  border-radius: 40%;
-  height: 3rem;
-  flex-basis: 2.5rem;
+.avatar > img {
+  border-radius: 50%;
 }
-.name
-{
+.name{
   font-size: 1.2rem;
 }
-.menu
-{
+.menu{
   display: flex;
   flex-direction: row;
-  justify-content:flex-end;
+  justify-content: flex-end;
   align-items: center;
   padding: 0 1rem;
   width: 50%;
-  height: 3.5rem;
+  height: 4rem;
 }
-.menu >img{
+.menu > img{
   margin-left: 2rem;
 }
