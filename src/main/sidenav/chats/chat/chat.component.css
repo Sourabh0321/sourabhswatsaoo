@@ -16,9 +16,8 @@
   height: 4rem;
   padding: 0.2rem;
 }
-.avatar > img
-{
-  border :1px solid black;
+.avatar > img {
+  border: 1px solid black;
   border-radius: 50%;
 }
 .details {
@@ -67,4 +66,7 @@
   padding-right: 5px;
   color: white;
   font-weight: bold;
+}
+.container:hover {
+  background-color: rgb(194, 188, 210);
 }
